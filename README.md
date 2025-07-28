@@ -1,4 +1,4 @@
-![logo](https://github.com/Wagh-Vishal/Wagh-Vishal/blob/main/c1.jpg)
+![logo](https://github.com/Wagh-Vishal/Wagh-Vishal/blob/main/c2.jpg)
 <h1 align="center">Hi 👋, I'm Vishal Wagh</h1>
 <h3 align="center">A passionate full-stack dotnet developer from India</h3>
 
