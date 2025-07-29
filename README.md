@@ -6,11 +6,11 @@
 <!-- Profile views -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wagh-vishal&label=Profile%20views&color=0e75b6&style=flat" alt="wagh-vishal" /> </p>
 
-- I’m currently learning **asp.net,ado.net,asp.net web-API,asp.net core,asp.net MVC,asp.net core web-API**
+- I’m currently learning - **asp.net,ado.net,asp.net web-API,asp.net core,asp.net MVC,asp.net core web-API**
 
-- 📫 How to reach me **waghvishal4556@gmail.com**
+- 📫 How to reach me - **waghvishal4556@gmail.com**
 
-- Fun fact **I believe learning never stops, and I enjoy debugging code more than writing it!**
+- Fun fact - **I believe learning never stops, and I enjoy debugging code more than writing it!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
